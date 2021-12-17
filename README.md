@@ -3,4 +3,5 @@
 ## Tips and Tricks
 
 ### Notepad++
-install Plugins - Python Script
+Plugins - install "Python Script"
+
