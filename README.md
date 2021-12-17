@@ -4,4 +4,3 @@
 
 ### Notepad++
 Plugins - install "Python Script"
-
