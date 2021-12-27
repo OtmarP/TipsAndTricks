@@ -2,6 +2,7 @@
 
 ## Tools
 * Notepad++
+* PuTTY
 
 ## Notepad++
 
