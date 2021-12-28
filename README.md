@@ -1,6 +1,7 @@
 # Tips And Tricks
 
 ## Tools
+* FileZilla
 * Notepad++
 * PuTTY
 
