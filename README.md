@@ -4,6 +4,7 @@
 * FileZilla
 * Notepad++
 * PuTTY
+* WinMerge
 
 ## Notepad++
 
