@@ -5,6 +5,7 @@
 * Notepad++
 * PuTTY
 * WinMerge
+* WinSCP
 * VNC-Viewer
 
 ## Notepad++
