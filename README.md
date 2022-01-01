@@ -2,6 +2,7 @@
 
 ## Tools
 * FileZilla
+* Gimp
 * Notepad++
 * PuTTY
 * WinMerge
