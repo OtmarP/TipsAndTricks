@@ -4,6 +4,7 @@
 * FileZilla
 * Gimp
 * Notepad++
+* KeePass
 * PuTTY
 * WinMerge
 * WinSCP
