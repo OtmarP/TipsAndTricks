@@ -1,6 +1,7 @@
 # Tips And Tricks
 
 ## Tools
+* AnyDesk
 * FileZilla
 * Gimp
 * Notepad++
@@ -9,6 +10,7 @@
 * WinMerge
 * WinSCP
 * VNC-Viewer
+* 7-Zip File Manager
 
 ## Notepad++
 
