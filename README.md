@@ -2,6 +2,7 @@
 
 ## Tools
 * AnyDesk
+* Fiddler4
 * FileZilla
 * Gimp
 * Notepad++
