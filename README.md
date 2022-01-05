@@ -2,6 +2,7 @@
 
 ## Tools
 * AnyDesk
+* Classic Shell
 * Fiddler4
 * FileZilla
 * Gimp
