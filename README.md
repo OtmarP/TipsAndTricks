@@ -3,6 +3,7 @@
 ## Tools
 * AnyDesk
 * Classic Shell
+* Database4
 * Fiddler4
 * FileZilla
 * Gimp
