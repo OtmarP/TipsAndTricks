@@ -12,6 +12,7 @@
 * PuTTY
 * WinMerge
 * WinSCP
+* VirtualBox
 * VNC-Viewer
 * 7-Zip File Manager
 
