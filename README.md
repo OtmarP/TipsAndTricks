@@ -2,6 +2,7 @@
 
 ## Tools
 * AnyDesk
+* Beyond Compare
 * Classic Shell
 * Database4
 * Fiddler4
