@@ -5,9 +5,11 @@
 * Beyond Compare
 * Classic Shell
 * Database4
+* EasyBCD 2.2
 * Fiddler4
 * FileZilla
 * Gimp
+* ImgBurn
 * Notepad++
 * KeePass
 * PuTTY
