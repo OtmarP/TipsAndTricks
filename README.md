@@ -8,10 +8,11 @@
 * EasyBCD 2.2
 * Fiddler4
 * FileZilla
+* Foxit Reader
 * Gimp
 * ImgBurn
-* Notepad++
 * KeePass
+* Notepad++
 * PuTTY
 * WinMerge
 * WinSCP
