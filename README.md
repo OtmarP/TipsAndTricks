@@ -13,6 +13,7 @@
 * ImgBurn
 * KeePass
 * Notepad++
+* Paint.NET
 * PuTTY
 * WinMerge
 * WinSCP
