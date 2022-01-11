@@ -2,6 +2,7 @@
 
 ## Tools
 * AnyDesk
+* Avast Free Antivirus
 * Beyond Compare
 * Classic Shell
 * Database4
