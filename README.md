@@ -5,6 +5,7 @@
 * Avast Free Antivirus
 * Beyond Compare
 * Classic Shell
+* DAEMON Tools Lite
 * Database4
 * EasyBCD 2.2
 * Fiddler4
