@@ -16,6 +16,7 @@
 * KeePass
 * Notepad++
 * Paint.NET
+* PicPick
 * PuTTY
 * WinMerge
 * WinSCP
