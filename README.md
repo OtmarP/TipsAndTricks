@@ -13,6 +13,7 @@
 * Foxit Reader
 * Gimp
 * ImgBurn
+* JustDecompile
 * KeePass
 * Notepad++
 * Paint.NET
