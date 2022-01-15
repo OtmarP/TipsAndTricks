@@ -19,6 +19,7 @@
 * Paint.NET
 * PicPick
 * PuTTY
+* Rufus
 * WinMerge
 * WinSCP
 * VirtualBox
