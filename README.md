@@ -20,6 +20,7 @@
 * PicPick
 * PuTTY
 * Rufus
+* Total Commander
 * VirtualBox
 * VNC-Viewer
 * WinMerge
