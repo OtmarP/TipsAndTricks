@@ -20,10 +20,10 @@
 * PicPick
 * PuTTY
 * Rufus
-* WinMerge
-* WinSCP
 * VirtualBox
 * VNC-Viewer
+* WinMerge
+* WinSCP
 * 7-Zip File Manager
 
 ## Notepad++
