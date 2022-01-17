@@ -2,6 +2,7 @@
 
 ## Tools
 * AnyDesk
+* Autoruns
 * Avast Free Antivirus
 * Beyond Compare
 * Classic Shell
