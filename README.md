@@ -38,4 +38,9 @@
 * Now you can mark a FileName and Click to "Python Script 1" in the Toolbar, then the File is opened with the default Program (Excel, Pdf-Viewer, ...)
 
 ![](src/Notepad++/Python_Script/img/Bild_20211218_191026_001.png)
- 
+
+## Windows
+### Make Backup-Image and Recovery-CD/USB
+Windows 7  
+Windows 8.1  
+Windows 10
