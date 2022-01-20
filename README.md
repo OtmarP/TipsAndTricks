@@ -16,6 +16,7 @@
 * ImgBurn
 * JustDecompile
 * KeePass
+* LICEcap
 * LockHunter
 * Notepad++
 * Paint.NET
