@@ -8,6 +8,7 @@
 * Classic Shell
 * DAEMON Tools Lite
 * Database4
+* dotPeek (JetBrains)
 * EasyBCD 2.2
 * Fiddler4
 * FileZilla
