@@ -24,6 +24,7 @@
 * PicPick
 * PuTTY
 * Rufus
+* Skype
 * Total Commander
 * VirtualBox
 * VNC-Viewer
