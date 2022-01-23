@@ -15,6 +15,7 @@
 * Foxit Reader
 * Gimp
 * ImgBurn
+* IrfanView
 * JustDecompile
 * KeePass
 * LICEcap
