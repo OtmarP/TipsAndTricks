@@ -28,6 +28,7 @@
 * Skype
 * Total Commander
 * VirtualBox
+* Visual Studio Code
 * VNC-Viewer
 * WinMerge
 * WinSCP
