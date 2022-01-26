@@ -25,6 +25,7 @@
 * PFMAP Pismo File Mount Audit Package
 * PicPick
 * PuTTY
+* Qemu
 * Rufus
 * Skype
 * Total Commander
