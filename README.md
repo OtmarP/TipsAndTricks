@@ -28,6 +28,7 @@
 * Qemu
 * Rufus
 * Skype
+* SysinternalsSuite
 * Total Commander
 * VirtualBox
 * Visual Studio Code
