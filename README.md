@@ -29,6 +29,7 @@
 * Rufus
 * Skype
 * SysinternalsSuite
+* TeamViewer
 * Total Commander
 * VirtualBox
 * Visual Studio Code
