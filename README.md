@@ -2,7 +2,7 @@
 
 ## Tools
 * [AnyDesk](src/Tools/AnyDesk/AnyDesk.md)
-* Autoruns
+* [Autoruns](src/Tools/Autoruns/Autoruns.md)
 * Avast Free Antivirus
 * Beyond Compare
 * Classic Shell
