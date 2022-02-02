@@ -3,7 +3,7 @@
 ## Tools
 * [AnyDesk](src/Tools/AnyDesk/AnyDesk.md)
 * [Autoruns](src/Tools/Autoruns/Autoruns.md)
-* Avast Free Antivirus
+* [Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md)
 * Beyond Compare
 * Classic Shell
 * DAEMON Tools Lite
