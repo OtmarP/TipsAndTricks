@@ -4,7 +4,7 @@
 * [AnyDesk](src/Tools/AnyDesk/AnyDesk.md)
 * [Autoruns](src/Tools/Autoruns/Autoruns.md)
 * [Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md)
-* Beyond Compare
+* [Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md)
 * Classic Shell
 * DAEMON Tools Lite
 * Database4
