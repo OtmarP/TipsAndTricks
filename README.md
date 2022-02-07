@@ -6,7 +6,7 @@
 * [Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md)
 * [Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md)
 * [Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md)
-* DAEMON Tools Lite
+* [DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md)
 * Database4
 * dotPeek (JetBrains)
 * EasyBCD 2.2
