@@ -8,7 +8,7 @@
 * [Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md)
 * [DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md)
 * [Database4](src/Tools/Database4/Database4.md)
-* dotPeek (JetBrains)
+* [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md)
 * EasyBCD 2.2
 * Fiddler4
 * FileZilla
