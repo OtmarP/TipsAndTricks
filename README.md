@@ -9,7 +9,7 @@
 * [DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md)
 * [Database4](src/Tools/Database4/Database4.md)
 * [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md)
-* EasyBCD 2.2
+* [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)
 * Fiddler4
 * FileZilla
 * Foxit Reader
