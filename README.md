@@ -10,7 +10,7 @@
 * [Database4](src/Tools/Database4/Database4.md)
 * [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md)
 * [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)
-* Fiddler4
+* [Fiddler4](src/Tools/Fiddler/Fiddler.md)
 * FileZilla
 * Foxit Reader
 * Gimp
