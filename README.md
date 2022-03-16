@@ -11,7 +11,7 @@
 * [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md)
 * [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)
 * [Fiddler4](src/Tools/Fiddler/Fiddler.md)
-* FileZilla
+* [FileZilla](src/Tools/FileZilla/FileZilla.md)
 * Foxit Reader
 * Gimp
 * ImgBurn
