@@ -12,7 +12,7 @@
 * [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)
 * [Fiddler4](src/Tools/Fiddler/Fiddler.md)
 * [FileZilla](src/Tools/FileZilla/FileZilla.md)
-* Foxit Reader
+* [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md)
 * Gimp
 * ImgBurn
 * IrfanView
