@@ -13,7 +13,7 @@
 * [Fiddler4](src/Tools/Fiddler/Fiddler.md)
 * [FileZilla](src/Tools/FileZilla/FileZilla.md)
 * [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md)
-* Gimp
+* [Gimp](src/Tools/Gimp/Gimp.md)
 * ImgBurn
 * IrfanView
 * JustDecompile
