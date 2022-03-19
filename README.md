@@ -14,7 +14,7 @@
 * [FileZilla](src/Tools/FileZilla/FileZilla.md)
 * [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md)
 * [Gimp](src/Tools/Gimp/Gimp.md)
-* ImgBurn
+* [ImgBurn](src/Tools/ImgBurn/ImgBurn.md)
 * IrfanView
 * JustDecompile
 * KeePass
