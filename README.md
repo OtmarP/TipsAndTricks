@@ -15,7 +15,7 @@
 * [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md)
 * [Gimp](src/Tools/Gimp/Gimp.md)
 * [ImgBurn](src/Tools/ImgBurn/ImgBurn.md)
-* IrfanView
+* [IrfanView](src/Tools/IrfanView/IrfanView.md)
 * JustDecompile
 * KeePass
 * LICEcap
