@@ -16,7 +16,7 @@
 * [Gimp](src/Tools/Gimp/Gimp.md)
 * [ImgBurn](src/Tools/ImgBurn/ImgBurn.md)
 * [IrfanView](src/Tools/IrfanView/IrfanView.md)
-* JustDecompile
+* [JustDecompile](src/Tools/JustDecompile/JustDecompile.md)
 * KeePass
 * LICEcap
 * LockHunter
