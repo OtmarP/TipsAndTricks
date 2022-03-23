@@ -17,7 +17,7 @@
 * [ImgBurn](src/Tools/ImgBurn/ImgBurn.md)
 * [IrfanView](src/Tools/IrfanView/IrfanView.md)
 * [JustDecompile](src/Tools/JustDecompile/JustDecompile.md)
-* KeePass
+* [KeePass](src/Tools/KeePass/KeePass.md)
 * LICEcap
 * LockHunter
 * Notepad++
