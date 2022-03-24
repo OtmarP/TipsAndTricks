@@ -18,7 +18,7 @@
 * [IrfanView](src/Tools/IrfanView/IrfanView.md)
 * [JustDecompile](src/Tools/JustDecompile/JustDecompile.md)
 * [KeePass](src/Tools/KeePass/KeePass.md)
-* LICEcap
+* [LICEcap](src/Tools/LICEcap/LICEcap.md)
 * LockHunter
 * Notepad++
 * Paint.NET
