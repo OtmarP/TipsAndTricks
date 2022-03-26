@@ -20,7 +20,7 @@
 * [KeePass](src/Tools/KeePass/KeePass.md)
 * [LICEcap](src/Tools/LICEcap/LICEcap.md)
 * [LockHunter](src/Tools/LockHunter/LockHunter.md)
-* Notepad++
+* [Notepad++](src/Tools/Notepad++/Notepad++.md)
 * Paint.NET
 * PFMAP Pismo File Mount Audit Package
 * PicPick
