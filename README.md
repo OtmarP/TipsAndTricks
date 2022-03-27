@@ -21,7 +21,7 @@
 * [LICEcap](src/Tools/LICEcap/LICEcap.md)
 * [LockHunter](src/Tools/LockHunter/LockHunter.md)
 * [Notepad++](src/Tools/Notepad++/Notepad++.md)
-* Paint.NET
+* [Paint.NET](src/Tools/Paint.NET/Paint.NET.md)
 * PFMAP Pismo File Mount Audit Package
 * PicPick
 * PuTTY
