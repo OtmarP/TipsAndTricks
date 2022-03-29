@@ -23,7 +23,7 @@
 * [Notepad++](src/Tools/Notepad++/Notepad++.md)
 * [Paint.NET](src/Tools/Paint.NET/Paint.NET.md)
 * [PFMAP Pismo File Mount Audit Package](src/Tools/PFMAP/PFMAP.md)
-* PicPick
+* [PicPick](src/Tools/PicPick/PicPick.md)
 * PuTTY
 * Qemu
 * Rufus
