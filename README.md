@@ -24,7 +24,7 @@
 * [Paint.NET](src/Tools/Paint.NET/Paint.NET.md)
 * [PFMAP Pismo File Mount Audit Package](src/Tools/PFMAP/PFMAP.md)
 * [PicPick](src/Tools/PicPick/PicPick.md)
-* PuTTY
+* [PuTTY](src/Tools/PuTTY/PuTTY.md)
 * Qemu
 * Rufus
 * Skype
