@@ -25,7 +25,7 @@
 * [PFMAP Pismo File Mount Audit Package](src/Tools/PFMAP/PFMAP.md)
 * [PicPick](src/Tools/PicPick/PicPick.md)
 * [PuTTY](src/Tools/PuTTY/PuTTY.md)
-* Qemu
+* [Qemu](src/Tools/Qemu/Qemu.md)
 * Rufus
 * Skype
 * SysinternalsSuite
