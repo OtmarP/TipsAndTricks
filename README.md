@@ -26,7 +26,7 @@
 * [PicPick](src/Tools/PicPick/PicPick.md)
 * [PuTTY](src/Tools/PuTTY/PuTTY.md)
 * [Qemu](src/Tools/Qemu/Qemu.md)
-* Rufus
+* [Rufus](src/Tools/Rufus/Rufus.md)
 * Skype
 * SysinternalsSuite
 * TeamViewer
