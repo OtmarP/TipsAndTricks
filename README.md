@@ -27,7 +27,7 @@
 * [PuTTY](src/Tools/PuTTY/PuTTY.md)
 * [Qemu](src/Tools/Qemu/Qemu.md)
 * [Rufus](src/Tools/Rufus/Rufus.md)
-* Skype
+* [Skype](src/Tools/Skype/Skype.md)
 * SysinternalsSuite
 * TeamViewer
 * Total Commander
