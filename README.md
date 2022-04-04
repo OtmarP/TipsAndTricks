@@ -28,7 +28,7 @@
 * [Qemu](src/Tools/Qemu/Qemu.md)
 * [Rufus](src/Tools/Rufus/Rufus.md)
 * [Skype](src/Tools/Skype/Skype.md)
-* SysinternalsSuite
+* [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md)
 * TeamViewer
 * Total Commander
 * UNetbootin
