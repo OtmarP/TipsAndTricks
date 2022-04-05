@@ -29,7 +29,7 @@
 * [Rufus](src/Tools/Rufus/Rufus.md)
 * [Skype](src/Tools/Skype/Skype.md)
 * [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md)
-* TeamViewer
+* [TeamViewer](src/Tools/TeamViewer/TeamViewer.md)
 * Total Commander
 * UNetbootin
 * VirtualBox
