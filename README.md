@@ -30,7 +30,7 @@
 * [Skype](src/Tools/Skype/Skype.md)
 * [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md)
 * [TeamViewer](src/Tools/TeamViewer/TeamViewer.md)
-* Total Commander
+* [Total Commander](src/Tools/Total_Commander/Total_Commander.md)
 * UNetbootin
 * VirtualBox
 * Visual Studio Code
