@@ -33,7 +33,7 @@
 * [Total Commander](src/Tools/Total_Commander/Total_Commander.md)
 * [UNetbootin](src/Tools/UNetbootin/UNetbootin.md)
 * [VirtualBox](src/Tools/VirtualBox/VirtualBox.md)
-* Visual Studio Code
+* [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md)
 * VNC-Viewer
 * WinMerge
 * WinSCP
