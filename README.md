@@ -35,7 +35,7 @@
 * [VirtualBox](src/Tools/VirtualBox/VirtualBox.md)
 * [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md)
 * [VNC-Viewer](src/Tools/VNC-Viewer/VNC-Viewer.md)
-* WinMerge
+* [WinMerge](src/Tools/WinMerge/WinMerge.md)
 * WinSCP
 * 7-Zip File Manager
 
