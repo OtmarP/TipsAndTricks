@@ -1,7 +1,14 @@
 # Tips And Tricks
 
 ## Tools
-* [AnyDesk](src/Tools/AnyDesk/AnyDesk.md)
+
+|Tool|Beschreibung|Lizenz|
+|-|-|-|
+|[AnyDesk](src/Tools/AnyDesk/AnyDesk.md)|Fernwartungs-Software|private Anwendung kostenlos|
+| ||
+
+
+* 
 * [Autoruns](src/Tools/Autoruns/Autoruns.md)
 * [Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md)
 * [Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md)
