@@ -6,9 +6,9 @@
 |-|-|-|
 |[AnyDesk](src/Tools/AnyDesk/AnyDesk.md) |Fernwartungs-Software |private Anwendung kostenlos |
 |[Autoruns](src/Tools/Autoruns/Autoruns.md) |Windows-Tool alternativ zu Msconfig |EULA (proprietär) |
+|[Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md) |Antivirus |Freeware, proprietary software |
+|- |- |- |
 
- 
-* [Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md)
 * [Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md)
 * [Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md)
 * [DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md)
