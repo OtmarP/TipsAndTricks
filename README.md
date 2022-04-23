@@ -8,9 +8,7 @@
 |[Autoruns](src/Tools/Autoruns/Autoruns.md) |Windows-Tool alternativ zu Msconfig |EULA (proprietär) |
 |[Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md) |Antivirus |Freeware, proprietary software |
 |[Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md) |Datenvergleichsprogramm |proprietär |
-
-
-* [Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md)
+|[Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md) |Windows Startmenü |MIT-Lizenz |
 * [DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md)
 * [Database4](src/Tools/Database4/Database4.md)
 * [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md)
