@@ -10,7 +10,7 @@
 |[Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md) |Datenvergleichsprogramm |proprietär |
 |[Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md) |Windows Startmenü |MIT-Lizenz |
 |[DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md) |Emulieren optischer Laufwerke |proprietär; Freeware (bis 3.47; seit 4.30.0); Adware (freiwillig, 4.0 – 4.12.4) |
-* [Database4](src/Tools/Database4/Database4.md)
+|[Database4](src/Tools/Database4/Database4.md)|Multiple Database Management Tool (MSSQL, SQLite, SQLCe, ...) |proprietär|
 * [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md)
 * [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)
 * [Fiddler4](src/Tools/Fiddler/Fiddler.md)
