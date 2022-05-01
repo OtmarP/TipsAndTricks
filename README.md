@@ -12,7 +12,7 @@
 |[DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md) |Emulieren optischer Laufwerke |proprietär; Freeware (bis 3.47; seit 4.30.0); Adware (freiwillig, 4.0 – 4.12.4) |
 |[Database4](src/Tools/Database4/Database4.md)|Multiple Database Management Tool (MSSQL, SQLite, SQLCe, ...) |proprietär|
 |[dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md) | Dekompilierer .NET-Assembly |Kostenlos |
-* [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)
+|[EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)| Bootmgr Config| Shareware (Freeware für nicht kommerzielle Benutzung)|
 * [Fiddler4](src/Tools/Fiddler/Fiddler.md)
 * [FileZilla](src/Tools/FileZilla/FileZilla.md)
 * [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md)
