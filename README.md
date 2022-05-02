@@ -4,16 +4,16 @@
 
 |Tool|Beschreibung|Lizenz|
 |-|-|-|
-|[AnyDesk](src/Tools/AnyDesk/AnyDesk.md) |Fernwartungs-Software |private Anwendung kostenlos |
-|[Autoruns](src/Tools/Autoruns/Autoruns.md) |Windows-Tool alternativ zu Msconfig |EULA (proprietär) |
-|[Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md) |Antivirus |Freeware, proprietary software |
-|[Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md) |Datenvergleichsprogramm |proprietär |
-|[Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md) |Windows Startmenü |MIT-Lizenz |
-|[DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md) |Emulieren optischer Laufwerke |proprietär; Freeware (bis 3.47; seit 4.30.0); Adware (freiwillig, 4.0 – 4.12.4) |
-|[Database4](src/Tools/Database4/Database4.md)|Multiple Database Management Tool (MSSQL, SQLite, SQLCe, ...) |proprietär|
-|[dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md) | Dekompilierer .NET-Assembly |Kostenlos |
-|[EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)| Bootmgr Config| Shareware (Freeware für nicht kommerzielle Benutzung)|
-* [Fiddler4](src/Tools/Fiddler/Fiddler.md)
+| [AnyDesk](src/Tools/AnyDesk/AnyDesk.md) | Fernwartungs-Software | private Anwendung kostenlos |
+| [Autoruns](src/Tools/Autoruns/Autoruns.md) | Windows-Tool alternativ zu Msconfig | EULA (proprietär) |
+| [Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md) | Antivirus | Freeware, proprietary software |
+| [Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md) | Datenvergleichsprogramm | proprietär |
+| [Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md) | Windows Startmenü | MIT-Lizenz |
+| [DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md) | Emulieren optischer Laufwerke | proprietär; Freeware (bis 3.47; seit 4.30.0); Adware (freiwillig, 4.0 – 4.12.4) |
+| [Database4](src/Tools/Database4/Database4.md)| Multiple Database Management Tool (MSSQL, SQLite, SQLCe, ...) | proprietär |
+| [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md) | Dekompilierer .NET-Assembly | Kostenlos |
+| [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)| Bootmgr Config | Shareware (Freeware für nicht kommerzielle Benutzung) |
+| [Fiddler4](src/Tools/Fiddler/Fiddler.md) | Debugging-Proxy-Server-Tool | Try for Free |
 * [FileZilla](src/Tools/FileZilla/FileZilla.md)
 * [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md)
 * [Gimp](src/Tools/Gimp/Gimp.md)
