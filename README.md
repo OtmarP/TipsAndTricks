@@ -14,7 +14,7 @@
 | [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md) | Dekompilierer .NET-Assembly | Kostenlos |
 | [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)| Bootmgr Config | Shareware (Freeware für nicht kommerzielle Benutzung) |
 | [Fiddler4](src/Tools/Fiddler/Fiddler.md) | Debugging-Proxy-Server-Tool | Try for Free |
-* [FileZilla](src/Tools/FileZilla/FileZilla.md)
+| [FileZilla](src/Tools/FileZilla/FileZilla.md) | FTP und SFTP - Client | GPL (Freie Software) |
 * [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md)
 * [Gimp](src/Tools/Gimp/Gimp.md)
 * [ImgBurn](src/Tools/ImgBurn/ImgBurn.md)
