@@ -15,7 +15,7 @@
 | [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)| Bootmgr Config | Shareware (Freeware für nicht kommerzielle Benutzung) |
 | [Fiddler4](src/Tools/Fiddler/Fiddler.md) | Debugging-Proxy-Server-Tool | Try for Free |
 | [FileZilla](src/Tools/FileZilla/FileZilla.md) | FTP und SFTP - Client | GPL (Freie Software) |
-* [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md)
+| [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md) | PDF-Viewer | Freeware |
 * [Gimp](src/Tools/Gimp/Gimp.md)
 * [ImgBurn](src/Tools/ImgBurn/ImgBurn.md)
 * [IrfanView](src/Tools/IrfanView/IrfanView.md)
