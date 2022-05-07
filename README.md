@@ -5,20 +5,20 @@
 |Tool|Beschreibung|Lizenz|
 |-|-|-|
 | [AnyDesk](src/Tools/AnyDesk/AnyDesk.md) | Fernwartungs-Software | private Anwendung kostenlos |
-| [Autoruns](src/Tools/Autoruns/Autoruns.md) | Windows-Tool alternativ zu Msconfig | EULA (propriet‰r) |
+| [Autoruns](src/Tools/Autoruns/Autoruns.md) | Windows-Tool alternativ zu Msconfig | EULA (propriet√§r) |
 | [Avast Free Antivirus](src/Tools/Avast_Antivirus/Avast_Antivirus.md) | Antivirus | Freeware, proprietary software |
-| [Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md) | Datenvergleichsprogramm | propriet‰r |
-| [Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md) | Windows Startmen¸ | MIT-Lizenz |
-| [DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md) | Emulieren optischer Laufwerke | propriet‰r; Freeware (bis 3.47; seit 4.30.0); Adware (freiwillig, 4.0 ñ 4.12.4) |
-| [Database4](src/Tools/Database4/Database4.md)| Multiple Database Management Tool (MSSQL, SQLite, SQLCe, ...) | propriet‰r |
+| [Beyond Compare](src/Tools/Beyond_Compare/Beyond_Compare.md) | Datenvergleichsprogramm | propriet√§r |
+| [Classic Shell / Open Shell Menu](src/Tools/Classic_Shell/Classic_Shell.md) | Windows Startmen√º | MIT-Lizenz |
+| [DAEMON Tools Lite](src/Tools/DAEMON_Tools_Lite/DAEMON_Tools_Lite.md) | Emulieren optischer Laufwerke | propriet√§r; Freeware (bis 3.47; seit 4.30.0); Adware (freiwillig, 4.0 ‚Äì 4.12.4) |
+| [Database4](src/Tools/Database4/Database4.md)| Multiple Database Management Tool (MSSQL, SQLite, SQLCe, ...) | propriet√§r |
 | [dotPeek (JetBrains)](src/Tools/dotPeek/dotPeek.md) | Dekompilierer .NET-Assembly | Kostenlos |
-| [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)| Bootmgr Config | Shareware (Freeware f¸r nicht kommerzielle Benutzung) |
+| [EasyBCD 2.2](src/Tools/EasyBCD/EasyBCD.md)| Bootmgr Config | Shareware (Freeware f√ºr nicht kommerzielle Benutzung) |
 | [Fiddler4](src/Tools/Fiddler/Fiddler.md) | Debugging-Proxy-Server-Tool | Try for Free |
 | [FileZilla](src/Tools/FileZilla/FileZilla.md) | FTP und SFTP - Client | GPL (Freie Software) |
 | [Foxit Reader](src/Tools/Foxit_Reader/Foxit_Reader.md) | PDF-Viewer | Freeware |
 | [Gimp](src/Tools/Gimp/Gimp.md) | ein pixelbasiertes Grafikprogramm | LGPLv3+ und GPLv3+ |
 | [ImgBurn](src/Tools/ImgBurn/ImgBurn.md) | Brennprogramm | Freeware |
-* [IrfanView](src/Tools/IrfanView/IrfanView.md)
+| [IrfanView](src/Tools/IrfanView/IrfanView.md) | Betrachtung und in kleinem Umfang auch zur Bearbeitung von Bildern | Propriet√§r, Freeware f√ºr nicht-kommerzielle Verwendung, 10 Euro Lizenzgeb√ºhr f√ºr kommerzielle Nutzung |
 * [JustDecompile](src/Tools/JustDecompile/JustDecompile.md)
 * [KeePass](src/Tools/KeePass/KeePass.md)
 * [LICEcap](src/Tools/LICEcap/LICEcap.md)
