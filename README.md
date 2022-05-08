@@ -19,7 +19,7 @@
 | [Gimp](src/Tools/Gimp/Gimp.md) | ein pixelbasiertes Grafikprogramm | LGPLv3+ und GPLv3+ |
 | [ImgBurn](src/Tools/ImgBurn/ImgBurn.md) | Brennprogramm | Freeware |
 | [IrfanView](src/Tools/IrfanView/IrfanView.md) | Betrachtung und in kleinem Umfang auch zur Bearbeitung von Bildern | Proprietär, Freeware für nicht-kommerzielle Verwendung, 10 Euro Lizenzgebühr für kommerzielle Nutzung |
-* [JustDecompile](src/Tools/JustDecompile/JustDecompile.md)
+| [JustDecompile](src/Tools/JustDecompile/JustDecompile.md) | open source decompilation engine | Freeware |
 * [KeePass](src/Tools/KeePass/KeePass.md)
 * [LICEcap](src/Tools/LICEcap/LICEcap.md)
 * [LockHunter](src/Tools/LockHunter/LockHunter.md)
