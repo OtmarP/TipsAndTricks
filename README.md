@@ -23,7 +23,7 @@
 | [KeePass](src/Tools/KeePass/KeePass.md) | Kennwortverwaltung | GNU General Public License, Version 2.0 oder später |
 | [LICEcap](src/Tools/LICEcap/LICEcap.md) | . | . |
 | [LockHunter](src/Tools/LockHunter/LockHunter.md) | . | . |
-* [Notepad++](src/Tools/Notepad++/Notepad++.md)
+| [Notepad++](src/Tools/Notepad++/Notepad++.md) | . | . |
 * [Paint.NET](src/Tools/Paint.NET/Paint.NET.md)
 * [PFMAP Pismo File Mount Audit Package](src/Tools/PFMAP/PFMAP.md)
 * [PicPick](src/Tools/PicPick/PicPick.md)
