@@ -29,7 +29,7 @@
 | [PicPick](src/Tools/PicPick/PicPick.md) | . | . |
 | [PuTTY](src/Tools/PuTTY/PuTTY.md) | . | . |
 | [Qemu](src/Tools/Qemu/Qemu.md) | . | . |
-* [Rufus](src/Tools/Rufus/Rufus.md)
+| [Rufus](src/Tools/Rufus/Rufus.md) | . | . |
 * [Skype](src/Tools/Skype/Skype.md)
 * [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md)
 * [TeamViewer](src/Tools/TeamViewer/TeamViewer.md)
