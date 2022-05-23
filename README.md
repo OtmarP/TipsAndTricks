@@ -33,7 +33,7 @@
 | [Skype](src/Tools/Skype/Skype.md) | . | . |
 | [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md) | . | . |
 | [TeamViewer](src/Tools/TeamViewer/TeamViewer.md) | . | . |
-* [Total Commander](src/Tools/Total_Commander/Total_Commander.md)
+| [Total Commander](src/Tools/Total_Commander/Total_Commander.md) | . | . |
 * [UNetbootin](src/Tools/UNetbootin/UNetbootin.md)
 * [VirtualBox](src/Tools/VirtualBox/VirtualBox.md)
 * [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md)
