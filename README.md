@@ -39,7 +39,7 @@
 | [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md) | . | . |
 | [VNC-Viewer](src/Tools/VNC-Viewer/VNC-Viewer.md) | . | . |
 | [WinMerge](src/Tools/WinMerge/WinMerge.md) | . | . |
-* [WinSCP](src/Tools/WinSCP/WinSCP.md)
+| [WinSCP](src/Tools/WinSCP/WinSCP.md) | . | . |
 * [7-Zip File Manager](src/Tools/7-Zip/7-Zip.md)
 
 ## Notepad++
