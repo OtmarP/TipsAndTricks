@@ -23,7 +23,7 @@
 | [KeePass](src/Tools/KeePass/KeePass.md) | Kennwortverwaltung | GNU General Public License, Version 2.0 oder später |
 | [LICEcap](src/Tools/LICEcap/LICEcap.md) | erstellen von animierten GIFs | Kostenfrei |
 | [LockHunter](src/Tools/LockHunter/LockHunter.md) | It is a free tool to delete files blocked by something you do not know | Free |
-| [Notepad++](src/Tools/Notepad++/Notepad++.md) | . | . |
+| [Notepad++](src/Tools/Notepad++/Notepad++.md) | Notepad++ ist ein freier Texteditor für Windows und kompatible Betriebssysteme. | GNU General Public License, Version 3.0 oder später[4][5], GNU General Public License, Version 2.0 oder später |
 | [Paint.NET](src/Tools/Paint.NET/Paint.NET.md) | . | . |
 | [PFMAP Pismo File Mount Audit Package](src/Tools/PFMAP/PFMAP.md) | . | . |
 | [PicPick](src/Tools/PicPick/PicPick.md) | . | . |
