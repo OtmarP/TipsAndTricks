@@ -24,8 +24,8 @@
 | [LICEcap](src/Tools/LICEcap/LICEcap.md) | erstellen von animierten GIFs | Kostenfrei |
 | [LockHunter](src/Tools/LockHunter/LockHunter.md) | It is a free tool to delete files blocked by something you do not know | Free |
 | [Notepad++](src/Tools/Notepad++/Notepad++.md) | Notepad++ ist ein freier Texteditor für Windows und kompatible Betriebssysteme. | GNU General Public License, Version 3.0 oder später[4][5], GNU General Public License, Version 2.0 oder später |
-| [Paint.NET](src/Tools/Paint.NET/Paint.NET.md) | . | . |
-| [PFMAP Pismo File Mount Audit Package](src/Tools/PFMAP/PFMAP.md) | . | . |
+| [Paint.NET](src/Tools/Paint.NET/Paint.NET.md) | Paint.NET ist eine Bildbearbeitungssoftware für Microsoft Windows | Proprietär, Paint.NET-Lizen |
+| [PFMAP Pismo File Mount Audit Package](src/Tools/PFMAP/PFMAP.md) | to mount the contents of ZIP, ISO, Compact ISO, Compact File Set and Private Folder files to the file system as virtual folders | Pismo File Mount Audit Package is available free of charge for personal and business use. |
 | [PicPick](src/Tools/PicPick/PicPick.md) | . | . |
 | [PuTTY](src/Tools/PuTTY/PuTTY.md) | . | . |
 | [Qemu](src/Tools/Qemu/Qemu.md) | . | . |
