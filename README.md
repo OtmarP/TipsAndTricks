@@ -27,7 +27,7 @@
 | [Paint.NET](src/Tools/Paint.NET/Paint.NET.md) | Paint.NET ist eine Bildbearbeitungssoftware für Microsoft Windows | Proprietär, Paint.NET-Lizen |
 | [PFMAP Pismo File Mount Audit Package](src/Tools/PFMAP/PFMAP.md) | to mount the contents of ZIP, ISO, Compact ISO, Compact File Set and Private Folder files to the file system as virtual folders | Pismo File Mount Audit Package is available free of charge for personal and business use. |
 | [PicPick](src/Tools/PicPick/PicPick.md) | Erstellung und Bearbeitung von Screenshots | proprietär (für private Nutzung kostenlos) |
-| [PuTTY](src/Tools/PuTTY/PuTTY.md) | . | . |
+| [PuTTY](src/Tools/PuTTY/PuTTY.md) | PuTTY ist eine freie Software zum Herstellen von Verbindungen über Secure Shell (SSH), Telnet, Remote login oder serielle Schnittstellen | MIT-Lizenz (freie Software) |
 | [Qemu](src/Tools/Qemu/Qemu.md) | . | . |
 | [Rufus](src/Tools/Rufus/Rufus.md) | . | . |
 | [Skype](src/Tools/Skype/Skype.md) | . | . |
