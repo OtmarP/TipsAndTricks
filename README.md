@@ -29,7 +29,7 @@
 | [PicPick](src/Tools/PicPick/PicPick.md) | Erstellung und Bearbeitung von Screenshots | proprietär (für private Nutzung kostenlos) |
 | [PuTTY](src/Tools/PuTTY/PuTTY.md) | PuTTY ist eine freie Software zum Herstellen von Verbindungen über Secure Shell (SSH), Telnet, Remote login oder serielle Schnittstellen | MIT-Lizenz (freie Software) |
 | [Qemu](src/Tools/Qemu/Qemu.md) | freie Virtualisierungssoftware, die die gesamte Hardware eines Computers emuliert | GPL 2 |
-| [Rufus](src/Tools/Rufus/Rufus.md) | . | . |
+| [Rufus](src/Tools/Rufus/Rufus.md) | . | GPL v3 |
 | [Skype](src/Tools/Skype/Skype.md) | . | . |
 | [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md) | . | . |
 | [TeamViewer](src/Tools/TeamViewer/TeamViewer.md) | . | . |
