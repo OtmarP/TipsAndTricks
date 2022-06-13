@@ -30,7 +30,7 @@
 | [PuTTY](src/Tools/PuTTY/PuTTY.md) | PuTTY ist eine freie Software zum Herstellen von Verbindungen über Secure Shell (SSH), Telnet, Remote login oder serielle Schnittstellen | MIT-Lizenz (freie Software) |
 | [Qemu](src/Tools/Qemu/Qemu.md) | freie Virtualisierungssoftware, die die gesamte Hardware eines Computers emuliert | GPL 2 |
 | [Rufus](src/Tools/Rufus/Rufus.md) | startfähige (oder bootbare) USB-Datenträger erstellen | GPL v3 |
-| [Skype](src/Tools/Skype/Skype.md) | . | . |
+| [Skype](src/Tools/Skype/Skype.md) | . | EULA (proprietär) |
 | [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md) | . | . |
 | [TeamViewer](src/Tools/TeamViewer/TeamViewer.md) | . | . |
 | [Total Commander](src/Tools/Total_Commander/Total_Commander.md) | . | . |
