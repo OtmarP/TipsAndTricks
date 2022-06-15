@@ -31,7 +31,7 @@
 | [Qemu](src/Tools/Qemu/Qemu.md) | freie Virtualisierungssoftware, die die gesamte Hardware eines Computers emuliert | GPL 2 |
 | [Rufus](src/Tools/Rufus/Rufus.md) | startfähige (oder bootbare) USB-Datenträger erstellen | GPL v3 |
 | [Skype](src/Tools/Skype/Skype.md) | Skype [skaɪp] ist ein internetbasierter Instant-Messaging-Dienst | EULA (proprietär) |
-| [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md) | . | . |
+| [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md) | . | Kostenlos |
 | [TeamViewer](src/Tools/TeamViewer/TeamViewer.md) | . | . |
 | [Total Commander](src/Tools/Total_Commander/Total_Commander.md) | . | . |
 | [UNetbootin](src/Tools/UNetbootin/UNetbootin.md) | . | . |
