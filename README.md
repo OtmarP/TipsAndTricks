@@ -32,7 +32,7 @@
 | [Rufus](src/Tools/Rufus/Rufus.md) | startfähige (oder bootbare) USB-Datenträger erstellen | GPL v3 |
 | [Skype](src/Tools/Skype/Skype.md) | Skype [skaɪp] ist ein internetbasierter Instant-Messaging-Dienst | EULA (proprietär) |
 | [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md) | Die Sysinternals Suite beinhaltet über 60 nützliche System-Tools der von Microsoft aufgekauften Firma Sysinternals. | Kostenlos |
-| [TeamViewer](src/Tools/TeamViewer/TeamViewer.md) | . | . |
+| [TeamViewer](src/Tools/TeamViewer/TeamViewer.md) | . | proprietär |
 | [Total Commander](src/Tools/Total_Commander/Total_Commander.md) | . | . |
 | [UNetbootin](src/Tools/UNetbootin/UNetbootin.md) | . | . |
 | [VirtualBox](src/Tools/VirtualBox/VirtualBox.md) | . | . |
