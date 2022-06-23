@@ -34,7 +34,7 @@
 | [SysinternalsSuite](src/Tools/SysinternalsSuite/SysinternalsSuite.md) | Die Sysinternals Suite beinhaltet über 60 nützliche System-Tools der von Microsoft aufgekauften Firma Sysinternals. | Kostenlos |
 | [TeamViewer](src/Tools/TeamViewer/TeamViewer.md) | Teamviewer ist eine Software für den Fernzugriff auf sowie die Fernsteuerung und die Fernwartung von Computern und anderen Endgeräten | proprietär |
 | [Total Commander](src/Tools/Total_Commander/Total_Commander.md) | Total Commander ist ein zweispaltiger Dateimanager für Windows nach dem Vorbild des Norton Commanders | Shareware, Windows-CE- und Mobilversionen: Freeware |
-| [UNetbootin](src/Tools/UNetbootin/UNetbootin.md) | . | GPL (Freie Software) |
+| [UNetbootin](src/Tools/UNetbootin/UNetbootin.md) | UNetbootin steht für Universal Netboot Installer und ist ein freies Programm, mit dessen Hilfe eine Linux- oder BSD-Distribution auf Rechnern ohne CD- oder DVD-Laufwerk, beispielsweise über einen USB-Wechseldatenträger, installiert werden kann | GPL (Freie Software) |
 | [VirtualBox](src/Tools/VirtualBox/VirtualBox.md) | . | . |
 | [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md) | . | . |
 | [VNC-Viewer](src/Tools/VNC-Viewer/VNC-Viewer.md) | . | . |
