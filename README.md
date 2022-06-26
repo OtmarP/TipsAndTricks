@@ -36,7 +36,7 @@
 | [Total Commander](src/Tools/Total_Commander/Total_Commander.md) | Total Commander ist ein zweispaltiger Dateimanager für Windows nach dem Vorbild des Norton Commanders | Shareware, Windows-CE- und Mobilversionen: Freeware |
 | [UNetbootin](src/Tools/UNetbootin/UNetbootin.md) | UNetbootin steht für Universal Netboot Installer und ist ein freies Programm, mit dessen Hilfe eine Linux- oder BSD-Distribution auf Rechnern ohne CD- oder DVD-Laufwerk, beispielsweise über einen USB-Wechseldatenträger, installiert werden kann | GPL (Freie Software) |
 | [VirtualBox](src/Tools/VirtualBox/VirtualBox.md) | VirtualBox ist eine Virtualisierungssoftware | GNU General Public License, Version 2, proprietäre Lizenz |
-| [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md) | . | . |
+| [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md) | . | MIT-Lizenz (Sourcecode), proprietär (Microsoft-Binaries) |
 | [VNC-Viewer](src/Tools/VNC-Viewer/VNC-Viewer.md) | . | . |
 | [WinMerge](src/Tools/WinMerge/WinMerge.md) | . | . |
 | [WinSCP](src/Tools/WinSCP/WinSCP.md) | . | . |
