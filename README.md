@@ -37,7 +37,7 @@
 | [UNetbootin](src/Tools/UNetbootin/UNetbootin.md) | UNetbootin steht für Universal Netboot Installer und ist ein freies Programm, mit dessen Hilfe eine Linux- oder BSD-Distribution auf Rechnern ohne CD- oder DVD-Laufwerk, beispielsweise über einen USB-Wechseldatenträger, installiert werden kann | GPL (Freie Software) |
 | [VirtualBox](src/Tools/VirtualBox/VirtualBox.md) | VirtualBox ist eine Virtualisierungssoftware | GNU General Public License, Version 2, proprietäre Lizenz |
 | [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md) | Visual Studio Code (kurz VS Code) ist ein kostenloser Quelltext-Editor von Microsoft. Visual Studio Code ist plattformübergreifend für die Betriebssysteme Windows, macOS und Linux verfügbar. Visual Studio Code basiert auf dem Framework Electron | MIT-Lizenz (Sourcecode), proprietär (Microsoft-Binaries) |
-| [VNC-Viewer](src/Tools/VNC-Viewer/VNC-Viewer.md) | . | . |
+| [VNC-Viewer](src/Tools/VNC-Viewer/VNC-Viewer.md) | . | Open Source |
 | [WinMerge](src/Tools/WinMerge/WinMerge.md) | . | . |
 | [WinSCP](src/Tools/WinSCP/WinSCP.md) | . | . |
 | [7-Zip File Manager](src/Tools/7-Zip/7-Zip.md) | . | . |
