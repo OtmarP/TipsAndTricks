@@ -39,7 +39,7 @@
 | [Visual Studio Code](src/Tools/VisualStudioCode/VisualStudioCode.md) | Visual Studio Code (kurz VS Code) ist ein kostenloser Quelltext-Editor von Microsoft. Visual Studio Code ist plattformübergreifend für die Betriebssysteme Windows, macOS und Linux verfügbar. Visual Studio Code basiert auf dem Framework Electron | MIT-Lizenz (Sourcecode), proprietär (Microsoft-Binaries) |
 | [VNC-Viewer](src/Tools/VNC-Viewer/VNC-Viewer.md) | Virtual Network Computing, kurz VNC, ist eine Software, die den Bildschirminhalt eines entfernten Rechners (Server) auf einem lokalen Rechner (Client) anzeigt und im Gegenzug Tastatur- und Mausbewegungen des lokalen Rechners an den entfernten Rechner sendet | Open Source |
 | [WinMerge](src/Tools/WinMerge/WinMerge.md) | WinMerge ist eine freie Software für Windows zum Vergleichen von Dateien und Verzeichnissen, um beispielsweise die Codes von verschiedenen Programmversionen zusammenführen zu können (englisch to merge) | GPL (Open Source) |
-| [WinSCP](src/Tools/WinSCP/WinSCP.md) | . | GNU GPL |
+| [WinSCP](src/Tools/WinSCP/WinSCP.md) | WinSCP (Windows Secure Copy) ist eine freie SFTP- und FTP-Client-Software für Windows. WinSCP kopiert Dateien zwischen lokalem und entferntem Computer mit diversen Protokollen: FTP, FTPS, SCP, SFTP, WebDAV oder S3 | GNU GPL |
 | [7-Zip File Manager](src/Tools/7-Zip/7-Zip.md) | . | . |
 
 ## Notepad++
